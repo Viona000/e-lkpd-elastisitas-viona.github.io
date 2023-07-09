@@ -1,0 +1,1546 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="21"><page Index="1"><![CDATA[Elektronik Lembar Kerja Peseta Didik (E-LKPD)
+
+                                                                        B E R B A S I S   P R O B L E M   B A S E D   L E A R N I N G
+
+
+
+
+
+
+
+
+                  ELASTISITAS DAN
+
+
+
+
+
+
+
+                      HUKUM HOOKE
+
+
+
+                                                                                  F I S I K A
+
+                                                                                  kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   VIONA ALDA AMELINDA
+
+   Pendidikan Fisika
+   Universitas PGRI sumatera Barat]]></page><page Index="2"><![CDATA[Kata Pengantar
+
+
+
+
+
+
+
+
+
+
+
+                         Segala  puji  bagi  Allah  SWT  atas  rahmat  dan  karunia-Nya,
+                       sehingga  penulis  dapat  menyelesaikan  Elektronik  Lembar  Kerja
+                       Peserta  Didik  (E-LKPD)  berbasis  Problem  Bassed  Learning
+                       Terkait Materi Elastisitas sebagai inoovasi bahan ajar fisika. E-
+                       LKPD  ini  disusun  khusus  pada  materi  elastisitas  kelas  XI  SMA
+                       /MA sebagai pendamping bahan ajar buku paket yang digunakan di
+                       sekolah.  Materi  yang  disajikan  disesuaikan  dengan  kompetensi  inti
+                       dan kompetensi dasar kurikulum 2013.
+                        Isi E-LKPD ini terdiri dari permasalahan-permasalahan elastisitas
+                       yang  akan  diselesaikan  oleh  peserta  didik  baik  secara  mandiri
+                       ataupun kelompok. Dengan adanya hal tersebut diharapkan peserta
+                       didik dapat belajar secara aktif dan kreatif.
+
+                         Penulis  menyadari  bahwa  masih  banyak  kekurangan  dalam
+                       penyusunan  E-LKPD  ini.  Oleh  karena  itu,  penulis  mengharapkan
+                       kritik  dan  saran  yang  dapat  membangun  demi  sempurnanya  E-
+                       LKPD  ini.  Penulis  juga  berharap  semoga  bahan  ajar  ini  dapat
+                       bermanfaat bagi semua puhak.
+
+                                                                         Padang, Juni 2023
+
+
+
+                                                                       Viona Alda Amelinda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                ii]]></page><page Index="3"><![CDATA[Daftar Isi
+
+
+
+
+
+
+
+
+
+
+                    Halaman Sampul
+
+
+                    Pendahuluan
+
+
+
+                            Kata Pengantar.........................ii
+
+
+                            Daftar Isi...................................iii
+
+
+                            Standar Isi Kurikulum.............iv
+
+                    Materi........................................1
+
+
+
+                    Orientasi Masalah ....................9
+
+
+                    Lembar Refleksi ......................14
+
+
+                    Daftar Pustaka
+
+
+
+                    Penutup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                iii]]></page><page Index="4"><![CDATA[STANDAR ISI
+
+     KURIKULUM
+
+
+
+
+
+
+
+
+
+
+                                        kompetensi inti
+
+
+
+
+                                KI-1 : Menghayati dan mengamalkan ajaran
+
+
+                                agama yang dianutnya.
+                                KI-2 : Menghayati dan mengamalkan perilaku
+
+
+                                jujur, disiplin, tanggungjawab, peduli (gotong
+                                royong, kerjasama, toleran, damai), santun,
+
+
+                                responsif dan pro-aktif dan menunjukkan sikap
+                                sebagai bagian dari solusi atas berbagai
+
+
+                                permasalahan dalam berinteraksi secara efektif
+                                dengan lingkungan sosial dan alam serta dalam
+
+
+                                menempatkan diri sebagai cerminan bangsa dalam
+                                pergaulan dunia
+
+
+                                         kompetensi dasar
+
+
+
+
+                                3.2 Menganalisis sifat elastisitas bahan
+
+                                dalam kehidupan sehari hari.
+
+
+                                4.2  Melakukan  percobaan  tentang
+
+                                sifat  elastisitas  suatu  bahan  berikut
+
+
+                                presentasi            hasil        percobaan               dan
+
+
+                                pemanfaatannya.
+
+
+
+
+
+
+
+
+                                                                                                                iv]]></page><page Index="5"><![CDATA[TUJUAN PEMBELAJARAN
+
+
+
+                                      1.Setelah melakukan kegiatan diskusi dan
+                                  percobaan, peserta didik dapat menerapkan sikap
+
+                                     aktif dan gotong royong dalam melakukan
+                                                          percobaan.
+
+                                  2.Setelah melakukan pembelajaran peserta didik
+                                dapat membandingkan sifat elastis dan plastis benda
+
+                                     dalam kehidupan sehari-hari dengan benar.
+                                     3.peserta didik dapat menganalisis tegangan,
+
+                                           regangan elastisitas dengan benar.
+
+                                  4.. Setelah melakukan literasi pada bahan ajar dan
+                                  berdiskusi, peserta didik dapat aktif menganalisis
+                                elastisitas berdasarkan grafik tegangan dan regangan
+
+                                                       dengan benar.
+
+                                  5.Setelah mempelajari materi peserta didik dapat
+                                melakukan percobaan tentang elastisitas suatu bahan
+
+                                     dalam kehidupan sehari-hari dengan benar.
+                                     6. Setelah melakukan percobaan siswa dapat
+
+                                  mempresentasikan hasil percobaan tegangan, dan
+                                                          regangan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                 v]]></page><page Index="6"><![CDATA[Religius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            “          sebelum kita mulai
+
+
+
+
+
+
+                                                       pembelajaran, ada baik
+
+                                                       nya kita berdo'a terlebih
+
+                                                       dahulu, agar ilmu yang
+
+
+                                                       kita dapat menjadi berkah
+                                                                                           ”
+
+                                                       untuk kita semua.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                vi]]></page><page Index="7"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+
+
+                                   E L A S T I S I T A S
+
+
+
+
+
+
+
+
+
+
+
+           Elastisitas (elasticity) adalah kemampuan (ability) dari
+
+
+           benda padat untuk kembali kebentuk semula segera
+
+
+
+           setelah gaya luar yang bekerja padanya hilang atau
+
+
+           dihilangkan.
+
+
+
+           contoh benda yang memiliki sifat elastisitas terdapat
+
+
+           pada gambar dibawah ini :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                 1]]></page><page Index="8"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+                                  1 . T E G A N G A N
+
+
+
+
+                                               ( s t r e s s )
+
+
+
+
+
+
+
+
+
+         TEGANGAN
+
+
+         adalah besar gaya yang bekerja
+
+
+
+         pada permukaan benda persatuan
+
+
+         luas. Tegangan dalam elastisitas
+
+
+
+         dirumuskan sebagai berikut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                2]]></page><page Index="9"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+                                2 .   R E G A N G A N
+
+
+
+
+                                               ( s t r a i n )
+
+
+
+
+
+      REGANGAN
+
+
+      Regangan  dalam  elastisitas  adalah
+
+
+
+      pertambahan  panjang  yang  terjadi
+
+
+      pada  suatu  benda  karena  pengaruh
+
+
+      gaya  luar  dibagi  panjang  bnda  mula-
+
+
+      mula  benda  tersebut,  sebelum  gaya
+
+
+
+      luar             bekerja                   padanya.                      Regangan
+
+
+      dirumuskan sebagai berikut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (karena regangan adalah perbandingan dari
+
+
+        dua besaran yang sejenis, maka ia hanya
+
+        seperti koefisien (tanpa punya satuan)
+
+
+
+
+
+                                                                                                                3]]></page><page Index="10"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+                              3 .   M O D U L U S   E L A S T I S
+
+
+                                   ( m o d u l u s   y o u n g )
+
+
+
+
+
+
+
+
+
+      MODULUS YOUNG
+
+
+      adalah  perbandingan  antara  tegangan
+
+
+
+      dan  regangan  sehingga  diperoleh
+
+
+      persamaan :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                4]]></page><page Index="11"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+                                  4 .   H U K U M   H O O K E
+
+
+
+
+
+
+
+
+
+
+
+
+
+        BUNYI HUKUM
+
+        HOOKE
+
+
+
+        "  jika  gaya  tarik  yang
+
+
+        diberikan  pada  sebuah
+
+
+        pegas tidak melampaui
+
+
+        batas                elastis                beban
+
+
+
+        maka                      pertambahan
+
+
+        panajang                                     pegas
+
+
+        berbanding  lurus  atau
+
+
+        sebanding dengan gaya
+
+
+
+        tariknya"
+
+       secara  sistematis,  hukum  Hooke  dapat
+
+       ditliskan sebagai berikut
+
+
+                                        keterangan :
+
+
+                                        F = gaya luar yang diberikan (N)
+
+                                        k = konstanta pegas (N/m)
+
+                                                                                                                5]]></page><page Index="12"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+                                  5 .   S U S U N A N   P E G A S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     A. SUSUNAN                                                 B. SUSUNAN
+
+
+     PEGAS SERI                                                 PEGAS PARALEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                6]]></page><page Index="13"><![CDATA[elastisitas.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+
+                Contoh Soal dan Pembahasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                 7]]></page><page Index="14"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA/MA
+
+
+
+                                    Elastisitas & Hukum Hooke
+
+
+
+
+                                  D I D A L A M   K E H I D U P A N   S E H A R I - H A R I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                8]]></page><page Index="15"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+        Orientasi
+
+
+
+      MASALAH
+
+
+
+
+
+
+                              Berikut!
+          Perhatikan Vidio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Dari  Vidio  di  atas  dapat  dilihat  bahwa  memanah
+
+         merupakan  salah  satu  penerapan  Hukum  Hooke
+         dalam            kehidupan.               Silahkan              saudara             amati
+
+         penerapan                Hookum                Hooke            pada           kegiatan
+
+         memanah tersebut bersama anggota kelompok.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                9]]></page><page Index="16"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+                                                                                      Kerja Sama
+ pemecahan masalah
+
+
+                                                                        "Bersatu adalah sebuah awal
+                                                                       menjaga kebersamaan adalah
+                                                                      kemajuan; bekerja sama adalah
+
+                                                                              sukses." - Henry Ford
+
+
+
+
+
+
+
+
+                                                                      buatlah kelompok yang
+
+                                                                          terdiri dari 5 orang
+
+                   untuk
+
+            memecahkan                                                  buatlah hipotesis mengenai
+
+        masalah tersebut                                              permasalahan tersebut dengan
+
+           ikuti langkah-                                               cara  diskusi bersama rekan
+                                                                                 sekelompok
+         langkah berikut
+
+
+
+
+                                                                           setelah membuat hipotesis
+                                                                           permasalahan, tuliskan ke
+                                                                         dalam link yang tertera pada
+                                                                               kolom dibawah ini
+
+
+   Hipotesis!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                               10]]></page><page Index="17"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+                            setelah merumuskan
+
+                            Hipotesis, kerjakan latihan
+
+                            dibawah ini dengan
+
+                            bekerja sama dan disiplin.
+
+                            kemudian upload jawaban
+
+                            pada link dibawah!
+
+
+
+
+
+     Latihan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      link pengiriman
+
+                                           latiahan
+
+
+        Disiplin!
+
+
+
+
+
+
+         Dengan disiplin diri, semua hal
+        menjadi mungkin. salah disiplin diri
+        adalah dengan mengumpulkan tugas
+
+        dengan tepat waktu!
+                                                                                                                11]]></page><page Index="18"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 PRESENTASIKAN HASIL
+
+
+
+                                            DISKUSI
+
+
+
+                                KELOMPOKMU
+
+
+
+                             DIDEPAN REKAN
+
+
+
+                                              KELAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                               12]]></page><page Index="19"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+  Lembar Refleksi
+
+
+
+
+
+
+
+   Isilah  lembar  refleksi  seperti  dibawah
+
+   ini pada link disamping
+
+
+
+
+
+
+
+             Bagiamana perasaan mu setelah mempelajari materi hari ini?
+
+
+             ceklistlah salah satu emoticon yang mewakili perasaan mu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Bagian mana yang menurutmu paling sulit dari
+                           materi hari ini
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         apa yang akan kamu lakukan untuk memperbaiki
+                         atau meningkatkan hasil belajarmu?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            kepada siapa kamu akan  meminta bantuan untuk
+
+                            memahami pelajaran ini?
+                                                                                                               13]]></page><page Index="20"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            DAFTAR PUSTAKA
+
+
+
+
+                                    https://cdn.utakatikotak.com/finder/
+                                    rumus%20tegangan.jpg
+
+
+
+                                    Nurdiansyah, Doni. 2013. No
+                                    Titlebuku ringkasan materi dan
+
+                                    latihan brilian fisika. Bandung:
+                                    grafindo media pratama.
+
+
+
+                                    Syamsuardi. 2021. Super Coach Pola
+                                    Belajar Mandiri Siswa. Bandung:
+
+                                    Yrama Widya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                               14]]></page><page Index="21"><![CDATA[elastisitas & hukum hooke.fisika. kelas XI SMA/MA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      "Hiduplah seolah-olah anda
+
+                                                      mati besok. Belajarlah seolah-
+
+                                                      olah anda hidup selamanya"
+
+
+                                                                           ~ Mahatma Gandhi]]></page></pages></Search>
